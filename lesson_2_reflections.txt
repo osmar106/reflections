@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Terminal creates a .git file, to do it its necessary use the command git init in the folder where we want to create it
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is space between the working directory and the repository. There we can add all the files required previous make a commit
+
