@@ -1,2 +1,22 @@
 When would you want to use a remote repository rather than keeping all your work local?
-When you want be able to access your project from another computer or you want to share your project and work collaborative 
+When you want be able to access your project from another computer or you want to share your project and work collaborative.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because maybe I could work on an different version of a file so if its updates automatically if possible lose that changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a copy of a repository in GitHub and I don't have permission to modify.
+Clone is a local copy of a repository.
+Branch is the different way that I use to write my code and make new features.
+A branch is necessary when you want to add a new feature and don't want to lose the original version of the program, a fork is ideal when you want to use someone else code to make you own version, and clones are ideal to copy a code from your own computer or any repository online and make your own changes even if you are offline.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It gives you the posibbility to work offline and keep your code updated to the lastest version
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+The only way to collaborate without Git or GitHub is making our code and sending to someone else and wait for his or her response. By this way would be easier have one code without merging different version but collaborate would be very deficient.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you have a different versions of your code by other users and need to keep the code updated.
+This help to keep all changes that all users make.
+
